@@ -14,3 +14,7 @@ Simulated data:
 RNA data:
 
 "genes_high_all.rda" = list of genes with a heritability greater than 0.5 for RNA or RNA_boxcox data, the first one hundred were analyzed for my thesis
+
+"bon" = Bonferroni
+
+"perm" = Permutation
