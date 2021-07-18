@@ -1,0 +1,17 @@
+R version 3.6.3 (2020-02-29) -- "Holding the Windsock"
+Copyright (C) 2020 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+Packages used for analysis
+"gtools" - mixedsort to sort data alphabetically
+"MASS" - boxcox to apply Maximum Likelyhood method for Box-Cox Transformations
+"PhenotypeSimulator" - TransformNonLinear to transform simulated phenotypes
+
+Packages used for plotting
+"cowplot"
+"dplyr"
+"ggforce"
+"ggplot2"
+"ggforce"
+"gridExtra"
+"tikzDevice"
